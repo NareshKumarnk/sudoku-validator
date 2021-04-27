@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-         <title>jsSudoku - Moriel Schottlender</title>
+         <title>Sudoku</title>
         <meta name="description" content="A Javascript implementation of a Sudoku puzzle with a backtracking algorithm.">
         <script src="jquery-2.0.3.min.js"></script>
         <script src="singleton.sudoku.js"></script>
